@@ -63,6 +63,8 @@ if (!require('scales')) install.packages('scales'); library('scales')
 
 ## Content:
 
+The repository contains two folders. The scripts used for the analysis and the expected outputs. 
+
 ### a_Scripts
 
 ### b_Scripts
