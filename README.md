@@ -45,7 +45,19 @@ if (!require('glmnet')) install.packages('glmnet'); library('glmnet') # To run E
 if (!require('xgboost')) install.packages('xgboost'); library('xgboost') # XGBoost
 
 # Main packages for Linear Discriminant Analysis (LDA):
+if (!require('caret')) install.packages('caret'); library('caret') # Machine learning framework
+if (!require('MASS')) install.packages('MASS'); library('MASS')
 
+# Main packages for three-way differential gene expression analysis:
+
+if (!require('volcano3D')) install.packages('volcano3D'); library('volcano3D') # 3D Volcano Plot
+if (!require('htmlwidgets')) install.packages('htmlwidgets'); library('htmlwidgets') # Manage 3D Plots interactions
+if (!requireNamespace("BiocManager", quietly = TRUE)) {install.packages("BiocManager")}
+if (!require('DESeq2')) BiocManager::install('DESeq2', update = FALSE); library('DESeq2') # For DGE statistics
+
+# Main packages for association between disease stage and ALS subtype classification:
+if (!require('betareg')) install.packages('betareg'); library('betareg') # Beta regression models
+if (!require('scales')) install.packages('scales'); library('scales')
 
 ```
 
