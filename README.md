@@ -65,8 +65,42 @@ if (!require('scales')) install.packages('scales'); library('scales')
 
 The repository contains two folders. The scripts used for the analysis and the expected outputs. 
 
-### a_Scripts
+### [1_Scripts](https://github.com/eagomezc/ML_evaluation_ALS_Subtype/tree/main/1_Scripts)
 
-### b_Scripts
+This folder contains the scripts for clustering, machine learning, blood evaluation and disease status analysis. 
 
+The scripts are: 
 
+**1_unsupervised_clustering.R:** This script takes VST-normalized read counts and performs unsupervised clustering using the Non-negative matrix factorisation algorithm.
+
+**2_pathway_enrichment_analysis.R:** This script takes a list of relevant genes for cluster identification (for each subtype) and performs pathway enrichment analysis to identify which molecular signals are associated with each subtype.
+
+**3_supervised_machine_learning.R:** This script takes VST-normalized read counts and builds machine learning models able to classify ALS samples into different subtypes. Three strategies are used: random forest, elastic net and gradient tree boosting. 
+
+**4_linear_discriminant_analysis.R:** This script takes candidate genes from ALS subtype classifiers and VST-normalized blood read counts for the multi-classification of ALS blood samples into three different subtypes using LDA.
+
+**5_three_way_DGE.R:** This script performs a three-way differential gene expression analysis of blood samples, identifies upregulated and downregulated genes and, based on these genes, performs enrichment analysis as an indirect way to evaluate the classification ability of the LDA models. 
+
+**6_disease_status_and_prediction.R:** This script evaluates the association between disease status in ALS blood samples (Collection time) and the prediction ability of LDA models. 
+
+### [2_Expected_Output](https://github.com/eagomezc/ML_evaluation_ALS_Subtype/tree/main/2_Expected_Output)
+
+This folder contains, separated by subfolders, the different expected outputs that can be obtained after running the scripts. Each subfolder has the name of the specific script that generates it, in addition to the number of the script, to make more clear what file is the result of which script.
+
+The subfolders are:
+
+**1_unsupervised_clustering:** The outputs are clustering plots, metrics of clustering performance, sample classification in each cluster and relevant genes for sample classification.
+
+**2_pathway_enrichment_analysis:** The outputs are enriched pathway plots and tables for Gene Ontology terms and Reactome signals. 
+
+**3_supervised_machine_learning:** The outputs are an accuracy plot, confusion matrices, parameter tuning, feature selection plots and the machine learning models for each methodology. 
+
+**4_linear_discriminant_analysis:** The outputs are LD projection plots for training and evaluation datasets, and tables with the probability of classification for each sample into one of the ALS subtypes. 
+
+**5_three_way_DGE:** The outputs are upregulated and downregulated genes for each of the ALS subtypes, volcano 3D plots (top and interactive), and enriched pathway plots and tables based on differentially expressed genes for each subtype.
+
+**6_disease_status_and_prediction:** The outputs are correlation plots between collection point and probability of prediction, and regression model results (plots, coefficients, etc.) highlighting the association between disease status and the ability of the machine learning models to classify blood samples. 
+
+## Publication: 
+
+If you use these codes for your research please cite these paper:
