@@ -1,0 +1,48 @@
+final_term	GeneRatio	-Log(Adj P)	Count
+React mRNA Splicing - Major Pathway	0.0728346456692913	5.5546311768402	37
+React Processing of Capped Intron-Containing Pre-mRNA	0.0885826771653543	5.5546311768402	45
+React mRNA Splicing	0.0728346456692913	5.35463734077526	37
+React Translation	0.0866141732283465	4.64431282465551	44
+React GTP hydrolysis and joining of the 60S ribosomal subunit	0.0433070866141732	3.59841471411705	22
+React Eukaryotic Translation Initiation	0.0433070866141732	3.24535826496064	22
+React Cap-dependent Translation Initiation	0.0433070866141732	3.24535826496064	22
+React rRNA processing in the nucleus and cytosol	0.0590551181102362	3.22161278259512	30
+React Major pathway of rRNA processing in the nucleolus and cytosol	0.0570866141732283	3.22161278259512	29
+React rRNA processing	0.0590551181102362	2.85979643389057	30
+React L13a-mediated translational silencing of Ceruloplasmin expression	0.0393700787401575	2.85979643389057	20
+React Influenza Viral RNA Transcription and Replication	0.0433070866141732	2.43748427717217	22
+React Formation of a pool of free 40S subunits	0.0354330708661417	2.43748427717217	18
+React Influenza Infection	0.047244094488189	2.43748427717217	24
+React RNA Polymerase II Transcription Termination	0.0275590551181102	2.37087596408793	14
+React Viral mRNA Translation	0.031496062992126	2.12515487376995	16
+React Mitochondrial translation	0.0334645669291339	2.06371569190353	17
+React Regulation of expression of SLITs and ROBOs	0.0452755905511811	2.05353183837098	23
+React Response of EIF2AK4 (GCN2) to amino acid deficiency	0.0334645669291339	2.05272276555305	17
+React Selenocysteine synthesis	0.031496062992126	2.0125495057911	16
+React Mitochondrial translation elongation	0.031496062992126	2.0125495057911	16
+React Mitochondrial translation termination	0.031496062992126	2.0125495057911	16
+React Signaling by ROBO receptors	0.0511811023622047	1.9904429587951	26
+React Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	0.031496062992126	1.9904429587951	16
+React SLBP independent Processing of Histone Pre-mRNAs	0.00984251968503937	1.9424183584601	5
+React Separation of Sister Chromatids	0.047244094488189	1.92341455041956	24
+React Mitotic Spindle Checkpoint	0.0334645669291339	1.92341455041956	17
+React mRNA Splicing - Minor Pathway	0.0216535433070866	1.89143538386557	11
+React Peptide chain elongation	0.0295275590551181	1.84945274142974	15
+React SLBP Dependent Processing of Replication-Dependent Histone Pre-mRNAs	0.00984251968503937	1.78302620227495	5
+React Eukaryotic Translation Elongation	0.0295275590551181	1.73913742510347	15
+React Eukaryotic Translation Termination	0.0295275590551181	1.73913742510347	15
+React snRNP Assembly	0.0216535433070866	1.73913742510347	11
+React Metabolism of non-coding RNA	0.0216535433070866	1.73913742510347	11
+React SRP-dependent cotranslational protein targeting to membrane	0.0334645669291339	1.73745755261549	17
+React Transport of Mature mRNA derived from an Intron-Containing Transcript	0.0255905511811024	1.73745755261549	13
+React Mitochondrial translation initiation	0.0295275590551181	1.7285827994149	15
+React Mitotic Anaphase	0.0531496062992126	1.71995396313205	27
+React Mitotic Metaphase and Anaphase	0.0531496062992126	1.71995396313205	27
+React Respiratory electron transport	0.0393700787401575	1.71995396313205	20
+React Selenoamino acid metabolism	0.0334645669291339	1.71995396313205	17
+React Nonsense-Mediated Decay (NMD)	0.0334645669291339	1.71995396313205	17
+React Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	0.0334645669291339	1.71995396313205	17
+React M Phase	0.0748031496062992	1.32672513357262	38
+React Transport of Mature Transcript to Cytoplasm	0.0255905511811024	1.3198749823457	13
+React Cell Cycle Checkpoints	0.0570866141732283	1.31529360054663	29
+React Aerobic respiration and respiratory electron transport	0.0531496062992126	1.31529360054663	27

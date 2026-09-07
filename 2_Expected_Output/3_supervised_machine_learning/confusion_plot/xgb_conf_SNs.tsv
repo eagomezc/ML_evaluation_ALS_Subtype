@@ -1,0 +1,5 @@
+InitClass	PredClass	Overall	Percentage
+SNs	SNs	1126	73
+SNs	Uncluster	418	27
+Uncluster	SNs	488	38
+Uncluster	Uncluster	813	62

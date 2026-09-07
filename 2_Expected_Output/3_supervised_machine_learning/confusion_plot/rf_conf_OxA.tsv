@@ -1,0 +1,5 @@
+InitClass	PredClass	Overall	Percentage
+OxA	OxA	5	18
+OxA	Uncluster	23	82
+Uncluster	OxA	0	0
+Uncluster	Uncluster	84	100

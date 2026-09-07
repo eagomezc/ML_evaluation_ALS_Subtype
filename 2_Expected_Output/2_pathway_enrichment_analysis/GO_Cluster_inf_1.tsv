@@ -1,0 +1,62 @@
+final_term	GeneRatio	-Log(Adj P)	Count
+CC collagen-containing extracellular matrix	0.212121212121212	7.21509574654388	14
+MF extracellular matrix structural constituent	0.136363636363636	5.56815505025327	9
+CC external side of plasma membrane	0.151515151515152	4.02739160239237	10
+CC collagen trimer	0.0757575757575758	3.35920481911674	5
+MF collagen binding	0.0757575757575758	3.32327115822689	5
+MF platelet-derived growth factor binding	0.0454545454545455	3.2654909026262	3
+CC contractile muscle fiber	0.106060606060606	3.02662576198747	7
+MF structural constituent of muscle	0.0606060606060606	3.0055391995968	4
+MF integrin binding	0.0909090909090909	2.85389364422868	6
+BP collagen fibril organization	0.0746268656716418	2.3740035921172	5
+BP artery morphogenesis	0.0746268656716418	2.3740035921172	5
+BP muscle organ development	0.134328358208955	2.3740035921172	9
+BP regulation of angiogenesis	0.119402985074627	2.3740035921172	8
+BP transforming growth factor beta receptor signaling pathway	0.104477611940299	2.3740035921172	7
+BP chondrocyte differentiation involved in endochondral bone morphogenesis	0.0447761194029851	2.3740035921172	3
+BP renal system development	0.119402985074627	2.21198209001439	8
+BP muscle contraction	0.119402985074627	2.10318330661019	8
+BP cell-substrate adhesion	0.119402985074627	2.10318330661019	8
+BP heart morphogenesis	0.104477611940299	2.10318330661019	7
+BP response to transforming growth factor beta	0.104477611940299	2.10318330661019	7
+BP morphogenesis of a branching epithelium	0.0895522388059701	2.10318330661019	6
+BP cell surface receptor protein serine/threonine kinase signaling pathway	0.119402985074627	2.10318330661019	8
+BP heart valve morphogenesis	0.0597014925373134	2.10318330661019	4
+BP ventricular cardiac muscle tissue development	0.0597014925373134	2.10318330661019	4
+MF transcription regulator inhibitor activity	0.0454545454545455	2.07332179340223	3
+BP morphogenesis of a branching structure	0.0895522388059701	2.01091493189457	6
+CC focal adhesion	0.106060606060606	1.95520536963724	7
+CC endoplasmic reticulum lumen	0.0909090909090909	1.95520536963724	6
+BP endothelium development	0.0746268656716418	1.91554306741418	5
+BP endothelial cell migration	0.0895522388059701	1.90228513936832	6
+BP regulation of T-helper 1 type immune response	0.0447761194029851	1.8949914150856	3
+BP wound healing	0.119402985074627	1.89359773679812	8
+BP chondrocyte development	0.0447761194029851	1.89359773679812	3
+BP branching involved in blood vessel morphogenesis	0.0447761194029851	1.87327021740237	3
+BP transforming growth factor beta receptor superfamily signaling pathway	0.104477611940299	1.77226791522976	7
+MF NAD+ nucleosidase activity	0.0303030303030303	1.71091857301346	2
+MF type I transforming growth factor beta receptor binding	0.0303030303030303	1.71091857301346	2
+BP homotypic cell-cell adhesion	0.0597014925373134	1.65034456964351	4
+BP response to heat	0.0597014925373134	1.62007078266883	4
+BP exocrine system development	0.0447761194029851	1.57384755650584	3
+BP ventricular cardiac muscle tissue morphogenesis	0.0447761194029851	1.57384755650584	3
+BP T-helper 1 type immune response	0.0447761194029851	1.5655140132097	3
+BP gastrulation	0.0746268656716418	1.5655140132097	5
+MF platelet-derived growth factor receptor binding	0.0303030303030303	1.53685665572046	2
+BP endothelial cell differentiation	0.0597014925373134	1.52186093258682	4
+CC stress fiber	0.0454545454545455	1.47547950675258	3
+BP protein localization to cell junction	0.0597014925373134	1.45718268417326	4
+BP neutrophil extravasation	0.0298507462686567	1.45718268417326	2
+BP protein transport along microtubule	0.0298507462686567	1.45718268417326	2
+BP positive regulation of miRNA transcription	0.0447761194029851	1.44387766142534	3
+BP vascular endothelial growth factor receptor signaling pathway	0.0447761194029851	1.42847237560605	3
+MF cell adhesion mediator activity	0.0454545454545455	1.38875616704464	3
+MF scaffold protein binding	0.0454545454545455	1.38875616704464	3
+CC integrin complex	0.0303030303030303	1.38465008425361	2
+BP regulation of SMAD protein signal transduction	0.0447761194029851	1.33682667429763	3
+BP cellular response to vascular endothelial growth factor stimulus	0.0447761194029851	1.33682667429763	3
+BP positive regulation of miRNA metabolic process	0.0447761194029851	1.33682667429763	3
+BP notochord development	0.0298507462686567	1.33682667429763	2
+BP platelet activation	0.0597014925373134	1.33682667429763	4
+BP response to unfolded protein	0.0597014925373134	1.33398428328601	4
+CC aggresome	0.0303030303030303	1.30106165950976	2

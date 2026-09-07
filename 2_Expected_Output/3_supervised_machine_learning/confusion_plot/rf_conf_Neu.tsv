@@ -1,0 +1,5 @@
+InitClass	PredClass	Overall	Percentage
+Neu	Neu	2	8
+Neu	Uncluster	22	92
+Uncluster	Neu	2	2
+Uncluster	Uncluster	86	98

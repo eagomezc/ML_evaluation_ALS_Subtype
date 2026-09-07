@@ -1,0 +1,78 @@
+final_term	GeneRatio	-Log(Adj P)	Count
+CC synaptic vesicle membrane	0.0947368421052632	11.7316700482475	18
+CC transmembrane transporter complex	0.126315789473684	7.58269466261689	24
+CC GABA-ergic synapse	0.0578947368421053	6.14325191196436	11
+CC neuronal cell body	0.115789473684211	6.14325191196436	22
+CC axon terminus	0.0578947368421053	5.88405645928175	11
+CC neuron projection terminus	0.0578947368421053	5.37880399389592	11
+CC distal axon	0.0789473684210526	5.08980337170854	15
+CC synaptic membrane	0.0894736842105263	3.7886635900312	17
+CC respiratory chain complex	0.0421052631578947	3.46316687592282	8
+CC dense core granule	0.0263157894736842	2.86818885488671	5
+BP modulation of chemical synaptic transmission	0.105555555555556	2.81362000493315	19
+BP neuropeptide signaling pathway	0.05	2.81362000493315	9
+BP regulation of amine transport	0.0444444444444444	2.74935059894185	8
+BP vesicle-mediated transport in synapse	0.0722222222222222	2.74935059894185	13
+CC neurofilament	0.0157894736842105	2.56406905733513	3
+BP learning or memory	0.0722222222222222	2.42098998170085	13
+MF monoatomic anion channel activity	0.043956043956044	2.37657424390093	8
+MF receptor ligand activity	0.0879120879120879	2.32353956758068	16
+MF signaling receptor activator activity	0.0879120879120879	2.32353956758068	16
+BP protein secretion	0.0777777777777778	2.17700909035451	14
+BP establishment of protein localization to extracellular region	0.0777777777777778	2.17700909035451	14
+BP synapse assembly	0.0666666666666667	2.17700909035451	12
+BP regulation of postsynaptic membrane potential	0.05	2.17700909035451	9
+CC neuron projection membrane	0.0263157894736842	2.14957178913876	5
+BP protein localization to extracellular region	0.0777777777777778	2.13421281713422	14
+CC COP9 signalosome	0.0210526315789474	2.13368036066085	4
+MF neuropeptide activity	0.021978021978022	2.04458233036475	4
+MF channel activity	0.0824175824175824	2.04458233036475	15
+MF G protein-coupled peptide receptor activity	0.0384615384615385	1.98037840690006	7
+BP regulation of catecholamine secretion	0.0277777777777778	1.90584270532906	5
+BP regulation of neurotransmitter transport	0.0388888888888889	1.90260281473872	7
+MF peptide receptor activity	0.0384615384615385	1.88731666261123	7
+MF neurotransmitter receptor activity	0.032967032967033	1.85013706761704	6
+CC proton-transporting ATP synthase complex	0.0157894736842105	1.84981305652346	3
+BP detection of external stimulus	0.0444444444444444	1.81108883929491	8
+BP glutamine family amino acid catabolic process	0.0222222222222222	1.81108883929491	4
+BP detection of abiotic stimulus	0.0444444444444444	1.81108883929491	8
+CC astrocyte projection	0.0157894736842105	1.80333496257365	3
+BP chloride transmembrane transport	0.0388888888888889	1.77524803567409	7
+BP generation of precursor metabolites and energy	0.0833333333333333	1.77524803567409	15
+MF myosin V binding	0.0164835164835165	1.76017846794196	3
+CC hippocampal mossy fiber to CA3 synapse	0.0210526315789474	1.74375667568564	4
+CC extrinsic component of membrane	0.0368421052631579	1.74261913809758	7
+MF G-protein beta-subunit binding	0.0164835164835165	1.61572730725248	3
+CC extrinsic component of organelle membrane	0.0157894736842105	1.60575186013721	3
+CC synaptic cleft	0.0157894736842105	1.60575186013721	3
+BP amide metabolic process	0.0777777777777778	1.60468857110373	14
+CC voltage-gated potassium channel complex	0.0263157894736842	1.58533835817484	5
+MF calcium ion sensor activity	0.0164835164835165	1.57815769381169	3
+BP chloride transport	0.0388888888888889	1.57077504432629	7
+BP ribonucleotide biosynthetic process	0.0444444444444444	1.55658419709468	8
+BP glutamate metabolic process	0.0222222222222222	1.55658419709468	4
+MF metal ion sensor activity	0.0164835164835165	1.553312499189	3
+BP purine-containing compound biosynthetic process	0.0555555555555556	1.54867082710241	10
+BP ribose phosphate biosynthetic process	0.0444444444444444	1.51308848207921	8
+BP regulation of synapse structure or activity	0.0611111111111111	1.51308848207921	11
+CC leading edge membrane	0.0368421052631579	1.50072133655167	7
+MF delayed rectifier potassium channel activity	0.0164835164835165	1.49460316405054	3
+CC neuronal cell body membrane	0.0157894736842105	1.49082813740578	3
+BP dicarboxylic acid metabolic process	0.0333333333333333	1.48083225611986	6
+BP dicarboxylic acid catabolic process	0.0166666666666667	1.46014849706422	3
+MF transaminase activity	0.0164835164835165	1.4247531457004	3
+BP signal release	0.0777777777777778	1.4179736782192	14
+MF neurotransmitter receptor activity involved in regulation of postsynaptic membrane potential	0.021978021978022	1.40998216778695	4
+MF proton transmembrane transporter activity	0.0384615384615385	1.40747698841632	7
+MF pyridoxal phosphate binding	0.021978021978022	1.40747698841632	4
+MF active monoatomic ion transmembrane transporter activity	0.0494505494505494	1.40747698841632	9
+MF hormone binding	0.0274725274725275	1.40747698841632	5
+CC multivesicular body	0.0210526315789474	1.38814311224679	4
+BP excitatory postsynaptic potential	0.0333333333333333	1.35838494931678	6
+BP acidic amino acid transport	0.0277777777777778	1.35264559571378	5
+BP potassium ion transport	0.05	1.35264559571378	9
+BP adult behavior	0.0388888888888889	1.34465122718071	7
+BP amino acid biosynthetic process	0.0277777777777778	1.33326265635689	5
+CC clathrin-sculpted vesicle	0.0105263157894737	1.32225183500289	2
+CC cytochrome complex	0.0157894736842105	1.31996828273554	3
+BP positive regulation of vesicle fusion	0.0166666666666667	1.31379970045642	3

@@ -1,0 +1,106 @@
+final_term	GeneRatio	-Log(Adj P)	Count
+React Neutrophil degranulation	0.147816349384099	22.420212371788	132
+React Platelet activation, signaling and aggregation	0.0716685330347144	10.6575473681283	64
+React Hemostasis	0.120940649496081	10.5795822837086	108
+React Response to elevated platelet cytosolic Ca2+	0.0369540873460246	5.62333349638754	33
+React Platelet degranulation	0.0358342665173572	5.62333349638754	32
+React Leishmania infection	0.0436730123180291	4.77693334202169	39
+React Parasitic Infection Pathways	0.0436730123180291	4.77693334202169	39
+React Signaling by Receptor Tyrosine Kinases	0.089585666293393	4.30049407291223	80
+React L1CAM interactions	0.0279955207166853	3.71172257430578	25
+React Signaling by moderate kinase activity BRAF mutants	0.0179171332586786	3.65166564185626	16
+React Signaling by RAS mutants	0.0179171332586786	3.65166564185626	16
+React Paradoxical activation of RAF signaling by kinase inactive BRAF	0.0179171332586786	3.65166564185626	16
+React Signaling downstream of RAS mutants	0.0179171332586786	3.65166564185626	16
+React Signaling by RAF1 mutants	0.0167973124300112	3.65166564185626	15
+React Signaling by Interleukins	0.0795072788353863	3.34261891540825	71
+React Signaling by high-kinase activity BRAF mutants	0.0145576707726764	3.12513170273214	13
+React Signaling by BRAF and RAF1 fusions	0.0212765957446809	3.02983128046371	19
+React Semaphorin interactions	0.019036954087346	2.87641972680433	17
+React Signaling by GPCR	0.0750279955207167	2.73836560362314	67
+React GPVI-mediated activation cascade	0.0145576707726764	2.68233342242099	13
+React MAP2K and MAPK activation	0.0145576707726764	2.68233342242099	13
+React Gap junction trafficking	0.0123180291153415	2.67844744401247	11
+React RHO GTPase cycle	0.0761478163493841	2.52538050908593	68
+React Gap junction trafficking and regulation	0.0123180291153415	2.52538050908593	11
+React Anti-inflammatory response favouring Leishmania parasite infection	0.0212765957446809	2.52538050908593	19
+React Leishmania parasite growth and survival	0.0212765957446809	2.52538050908593	19
+React GPCR downstream signalling	0.0683090705487122	2.52538050908593	61
+React Recycling pathway of L1	0.0145576707726764	2.33499480954099	13
+React Fcgamma receptor (FCGR) dependent phagocytosis	0.0246360582306831	2.33499480954099	22
+React Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell	0.0302351623740202	2.33203932409264	27
+React Neuronal System	0.0481522956326988	2.32654793912229	43
+React Extracellular matrix organization	0.0403135498320269	2.32070923689614	36
+React Neurotransmitter receptors and postsynaptic signal transmission	0.0302351623740202	2.32070923689614	27
+React ROS and RNS production in phagocytes	0.0123180291153415	2.32070923689614	11
+React The role of Nef in HIV-1 replication and disease pathogenesis	0.0123180291153415	2.32070923689614	11
+React Platelet Aggregation (Plug Formation)	0.0123180291153415	2.32070923689614	11
+React Signal transduction by L1	0.0100783874580067	2.31921965638446	9
+React Oncogenic MAPK signaling	0.0223964165733483	2.30251243565727	20
+React Cell-extracellular matrix interactions	0.00783874580067189	2.30251243565727	7
+React Signaling by NTRKs	0.0291153415453527	2.25867642681476	26
+React Autophagy	0.0347144456886898	2.16456431223141	31
+React Post NMDA receptor activation events	0.0179171332586786	2.06066057888751	16
+React G-protein beta:gamma signalling	0.0111982082866741	2.02282506551451	10
+React RHO GTPases activate IQGAPs	0.0111982082866741	2.02282506551451	10
+React Integrin signaling	0.0100783874580067	2.01570461718712	9
+React Parasite infection	0.0179171332586786	2.01570461718712	16
+React Leishmania phagocytosis	0.0179171332586786	2.01570461718712	16
+React FCGR3A-mediated phagocytosis	0.0179171332586786	2.01570461718712	16
+React Activation of NMDA receptors and postsynaptic events	0.019036954087346	1.9576099854832	17
+React RHO GTPase Effectors	0.0537513997760358	1.9576099854832	48
+React EPH-Ephrin signaling	0.0212765957446809	1.87838285709634	19
+React VEGFA-VEGFR2 Pathway	0.0246360582306831	1.87838285709634	22
+React Phospholipid metabolism	0.0391937290033595	1.87838285709634	35
+React Regulation of actin dynamics for phagocytic cup formation	0.0179171332586786	1.87838285709634	16
+React Signaling by VEGF	0.0257558790593505	1.87838285709634	23
+React Interferon gamma signaling	0.0235162374020157	1.84855527805826	21
+React G alpha (i) signalling events	0.0369540873460246	1.79815816522085	33
+React Signaling by NTRK1 (TRKA)	0.0246360582306831	1.79815816522085	22
+React GRB2:SOS provides linkage to MAPK signaling for Integrins	0.00671892497200448	1.79815816522085	6
+React SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion	0.00671892497200448	1.79815816522085	6
+React Defects of contact activation system (CAS) and kallikrein/kinin system (KKS)	0.00671892497200448	1.79815816522085	6
+React Cell surface interactions at the vascular wall	0.0257558790593505	1.79815816522085	23
+React Interferon alpha/beta signaling	0.019036954087346	1.79815816522085	17
+React TBC/RABGAPs	0.0145576707726764	1.79815816522085	13
+React Transmission across Chemical Synapses	0.0347144456886898	1.79815816522085	31
+React RAC1 GTPase cycle	0.0347144456886898	1.75266624896779	31
+React Cell-Cell communication	0.0235162374020157	1.71202812203039	21
+React DAP12 interactions	0.013437849944009	1.70539204943903	12
+React Sealing of the nuclear envelope (NE) by ESCRT-III	0.0100783874580067	1.67790733978321	9
+React Macroautophagy	0.0302351623740202	1.67418840755824	27
+React COPI-mediated anterograde transport	0.0235162374020157	1.66888736334178	21
+React G beta:gamma signalling through PI3Kgamma	0.00895856662933931	1.64836618171689	8
+React RHO GTPases Activate NADPH Oxidases	0.00895856662933931	1.64836618171689	8
+React CDC42 GTPase cycle	0.0291153415453527	1.64836618171689	26
+React Interleukin-2 family signaling	0.0123180291153415	1.64836618171689	11
+React Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane	0.00671892497200448	1.64836618171689	6
+React Transport of connexons to the plasma membrane	0.00671892497200448	1.64836618171689	6
+React Diseases of hemostasis	0.00671892497200448	1.64836618171689	6
+React Integrin cell surface interactions	0.0156774916013438	1.60814317986039	14
+React RAB geranylgeranylation	0.0156774916013438	1.60814317986039	14
+React MHC class II antigen presentation	0.0257558790593505	1.59420448079172	23
+React Activation of AMPK downstream of NMDARs	0.00895856662933931	1.52707241741108	8
+React Opioid Signalling	0.019036954087346	1.51161466626907	17
+React Calmodulin induced events	0.0100783874580067	1.49332552964779	9
+React CaM pathway	0.0100783874580067	1.49332552964779	9
+React G-protein mediated events	0.013437849944009	1.49332552964779	12
+React EPHB-mediated forward signaling	0.0123180291153415	1.49332552964779	11
+React FCERI mediated MAPK activation	0.0111982082866741	1.49332552964779	10
+React Gap junction assembly	0.00671892497200448	1.49332552964779	6
+React Synthesis of Leukotrienes (LT) and Eoxins (EX)	0.00671892497200448	1.49332552964779	6
+React Sema3A PAK dependent Axon repulsion	0.00671892497200448	1.49332552964779	6
+React ER to Golgi Anterograde Transport	0.0313549832026876	1.49332552964779	28
+React XBP1(S) activates chaperone genes	0.0145576707726764	1.45713863069759	13
+React Translocation of SLC2A4 (GLUT4) to the plasma membrane	0.0179171332586786	1.36428269511776	16
+React Formation of annular gap junctions	0.00559910414333707	1.32733861121262	5
+React p130Cas linkage to MAPK signaling for integrins	0.00559910414333707	1.32733861121262	5
+React AKT phosphorylates targets in the cytosol	0.00671892497200448	1.32733861121262	6
+React Signal regulatory protein family interactions	0.00671892497200448	1.32733861121262	6
+React PLC beta mediated events	0.0123180291153415	1.32733861121262	11
+React Transport to the Golgi and subsequent modification	0.0347144456886898	1.32724127499256	31
+React IRE1alpha activates chaperones	0.0145576707726764	1.32724127499256	13
+React RAC2 GTPase cycle	0.019036954087346	1.32724127499256	17
+React Clathrin-mediated endocytosis	0.0268756998880179	1.32724127499256	24
+React RHOA GTPase cycle	0.0268756998880179	1.32724127499256	24
+React Ca-dependent events	0.0100783874580067	1.32724127499256	9
