@@ -13,7 +13,7 @@ To confirm the presence of ALS subtypes in motor cortex samples, **unsupervised 
 
 All the scripts used for this work were run on a MacBook Air (Apple M4 chip, RAM: 24GB, CPU: 10 cores). 
 
-High-memory and long jobs (including unsupervised clustering and parameter tuning for machine learning models) were performed in the high-performance computing cluster of KCL (CREATE; more information [here](https://docs.er.kcl.ac.uk/)). Running time in the cluster depends of memory availability. 
+High-memory and long jobs (including unsupervised clustering and parameter tuning for machine learning models) were performed in the high-performance computing cluster of KCL (CREATE; more information [here](https://docs.er.kcl.ac.uk/)). Running time in the cluster depends on memory availability. 
 
 ### System requirements: 
 
@@ -24,6 +24,8 @@ All the scripts were created and used using the **R Programming Language** on a 
 **RStudio version**: 2026.01.1+403
 
 To install R and RStudio, follow the installation instructions [here](https://www.stats.bris.ac.uk/R/) and [here](https://www.rstudio.com/products/rstudio/download/). Typical installation times do not exceed a few minutes.
+
+A fixed random seed was defined for all the scripts, so results were consistent throughout different runs. This was set up using the set.seed() function in R. 
 
 ### Required R packages (libraries): 
 
